@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPSTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_track_record">Запись маршрута</string>
+    <string name="str_track_record_off">отключена</string>
+    <string name="str_button_off">Выключена</string>
+    <string name="str_button_on">Включена</string>
+</resources>
