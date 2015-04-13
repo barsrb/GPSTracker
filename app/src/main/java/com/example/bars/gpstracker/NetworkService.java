@@ -134,6 +134,7 @@ public class NetworkService extends Service{
                             } catch (IOException e) {
                                 e.printStackTrace();
                                 Log.d("NetWork", "Network Error");
+                                break;
                             }
                             if(responseStr.equals("0"))
                             {
